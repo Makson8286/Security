@@ -1,0 +1,13 @@
+Вразливості фізичного рівня моделі OSI - це можливі атаки на фізичні компоненти, сигнали та кодування даних, 
+які використовуються для передачі бітів по фізичних каналах зв’язку. 
+Наприклад, зловмисник може перервати, перехопити, модифікувати або підробити сигнали, 
+що передаються по кабелю, оптоволокну, радіохвилях або іншому середовищу. 
+Також можливе фізичне пошкодження або крадіжка обладнання, що працює на фізичному рівні,
+такого як концентратори, повторювачі, мережеві адаптери тощо.
+
+OSI physical layer vulnerabilities are possible attacks on physical components, signals, and data encoding, 
+used to transmit bits over physical communication channels. 
+For example, an attacker can interrupt, intercept, modify, or spoof signals, 
+transmitted over cable, fiber optics, radio waves, or other media. 
+It is also possible to physically damage or steal equipment that operates on the physical layer,
+such as hubs, repeaters, network adapters, etc.
