@@ -1,13 +1,52 @@
 Вразливості фізичного рівня моделі OSI - це можливі атаки на фізичні компоненти, сигнали та кодування даних, 
-які використовуються для передачі бітів по фізичних каналах зв’язку. 
+
+які використовуються для передачі бітів по фізичних каналах зв’язку.
+
 Наприклад, зловмисник може перервати, перехопити, модифікувати або підробити сигнали, 
+
 що передаються по кабелю, оптоволокну, радіохвилях або іншому середовищу. 
+
 Також можливе фізичне пошкодження або крадіжка обладнання, що працює на фізичному рівні,
+
 такого як концентратори, повторювачі, мережеві адаптери тощо.
 
-OSI physical layer vulnerabilities are possible attacks on physical components, signals, and data encoding, 
+OSI physical layer vulnerabilities are possible attacks on physical components, signals, and data encoding,
+
 used to transmit bits over physical communication channels. 
+
 For example, an attacker can interrupt, intercept, modify, or spoof signals, 
+
 transmitted over cable, fiber optics, radio waves, or other media. 
+
 It is also possible to physically damage or steal equipment that operates on the physical layer,
+
 such as hubs, repeaters, network adapters, etc.
+
+Для запобігання вразливостям фізичного рівня необхідно застосовувати різні заходи безпеки, такі як:
+
+Захист фізичних компонентів від несанкціонованого доступу, використовуючи замки, шафи, сигналізацію тощо.
+
+Використання криптографічних методів для шифрування даних, що передаються по фізичних каналах, таких як VPN, SSL, TLS тощо.
+
+Використання аутентифікації та авторизації для перевірки особистості та прав доступу користувачів та пристроїв,
+
+що підключаються до мережі, таких як паролі, сертифікати, MAC-адреси тощо.
+
+Використання детекторів та аналізаторів сигналів для виявлення та відстеження аномалій та атак на фізичному рівні,
+
+таких як перешкоди, зміни амплітуди, частоти, фази тощо.
+
+
+To prevent physical layer vulnerabilities, it is necessary to apply various security measures, such as:
+
+Protecting physical components from unauthorized access by using locks, cabinets, alarms, etc.
+
+Using cryptographic methods to encrypt data transmitted over physical channels, such as VPN, SSL, TLS, etc.
+
+Use authentication and authorization to verify the identity and access rights of users and devices connecting to the network,
+
+such as passwords, certificates, MAC addresses, etc.
+
+Use of signal detectors and analyzers to detect and track anomalies and attacks at the physical layer, 
+
+such as interference, changes in amplitude, frequency, phase, etc.
